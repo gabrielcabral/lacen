@@ -14,9 +14,8 @@
 
 ## Como usar
 
-## How to use
 
-Clone: ​​__git clone https://github.com/rrpadilla/laravel-adminlte-boilerplate.git meu-novo-projeto__
+Clone: ​​__git clonehttps://github.com/gabrielcabral/lacen.git meu-novo-projeto__
 - cd meu-novo-projeto
 - Copie o arquivo __. Env.example__ para __. Env__ e edite as credenciais do banco de dados e o APP_URL
 - Executar __composer install__
